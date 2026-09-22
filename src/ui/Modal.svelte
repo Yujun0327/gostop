@@ -43,7 +43,7 @@
   }
 
   .sheet {
-    background: var(--panel);
+    background: var(--ivory);
     color: var(--ink);
     border-radius: var(--radius);
     box-shadow: var(--hairline), 0 8px 28px rgb(59 47 30 / 0.35);
